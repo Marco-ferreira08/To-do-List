@@ -13,10 +13,10 @@ Este é um projeto simples de **lista de tarefas (to-do list)** desenvolvido em 
 ---
 
 ## 🎮 Funcionalidades
-✔ Adicionar uma nova tarefa
-✔ Listar todas as tarefas
-✔ Marcar tarefa como concluída
-✔ Remover tarefa
-✔ Interface amigável via console
+- ✔ Adicionar uma nova tarefa
+- ✔ Listar todas as tarefas
+- ✔ Marcar tarefa como concluída
+- ✔ Remover tarefa
+- ✔ Interface amigável via console
 
 ---
